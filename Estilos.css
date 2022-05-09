@@ -1,0 +1,19 @@
+﻿body{
+    text-align:center;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+color: blue}
+
+#login {
+        background-color:blue;
+        color: white;
+    }
+
+#registre {
+        background-color: whitesmoke;
+        color: blue;
+}
+
+.copy {
+    color:blue;
+    font-size: 10px;
+}
